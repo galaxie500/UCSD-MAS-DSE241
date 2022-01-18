@@ -1,0 +1,3 @@
+[submodule "d3js-tutorial"]
+	path = d3js-tutorial
+	url = https://github.com/xriley/DevResume-Theme.git
