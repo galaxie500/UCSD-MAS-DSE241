@@ -1,4 +1,4 @@
-## Winter Olympics Visualization using D3JS
+## Winter Olympics Above the Tropic of Cancer
 
 ### Set up instruction
 -------------------
