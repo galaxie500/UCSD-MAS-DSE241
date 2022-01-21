@@ -11,10 +11,10 @@
 -------------------
 http://localhost:8080/exercise1/map.html
 
-<img src="exercise1/img/map.png" alt="map" width="600"/>
+<img src="./img/map.png" alt="map" width="600"/>
 
 ### Top 7 Winning Countries by Sports Type
 -------------------
 http://localhost:8080/exercise1/bar.html
 
-<img src="exercise1/img/stacked_bar.png" alt="map" width="600"/>
+<img src="./img/stacked_bar.png" alt="map" width="600"/>
