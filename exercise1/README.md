@@ -1,6 +1,6 @@
 ## Winter Olympics Above the Tropic of Cancer
 
-### Set up instruction
+### Grading Instruction
 -------------------
 1. Download **exercise1** directory
 2. Copy directory **/exercise1** to d3js working directory, for example: if working dir is **./d3js-tutorial/slides/D3_tutorial/Example_Files/**, then the correct path is: **./d3js-tutorial/slides/D3_tutorial/Example_Files/exercise1**
