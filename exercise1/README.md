@@ -14,12 +14,12 @@
 
 ### Medal Winning Countries' Choropleth Map
 -------------------
-http://localhost:8080/slides/D3_tutorial/Example_Files/exercise1/map.html
+http://localhost:8080/slides/D3_tutorial/Example_Files/js-binding/exercise1/map.html
 
 <img src="./img/map.png" alt="map" width="600"/>
 
 ### Top 7 Winning Countries by Sports Type
 -------------------
-http://localhost:8080/slides/D3_tutorial/Example_Files/exercise1/barchart.html
+http://localhost:8080/slides/D3_tutorial/Example_Files/js-binding/exercise1/barchart.html
 
 <img src="./img/stacked_bar.png" alt="map" width="600"/>
