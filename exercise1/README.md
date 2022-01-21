@@ -8,8 +8,8 @@
 4. Run ```python -m http.server 8080```
 5. Open local browser with http://localhost:8080
 6. Visualization link:
-- Choropleth Map: http://localhost:8080/slides/D3_tutorial/Example_Files/exercise1/map.html
-- Bar chart: http://localhost:8080/slides/D3_tutorial/Example_Files/exercise1/barchart.html
+- Choropleth Map: http://localhost:8080/slides/D3_tutorial/Example_Files/js-binding/exercise1/map.html
+- Bar chart: http://localhost:8080/slides/D3_tutorial/Example_Files/js-binding/exercise1/barchart.html
 <br></br>
 
 ### Medal Winning Countries' Choropleth Map
