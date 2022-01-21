@@ -1,7 +1,7 @@
 ## Winter Olympics Visualization using D3JS
 
 ### Set up instruction
-
+-------------------
 1. Open current directory in terminal after cloning the repo
 2. Run ```python -m http.server 8080```
 3. Open local browser with http://localhost:8080
