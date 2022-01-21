@@ -1,4 +1,5 @@
 ## Winter Olympics Above the Tropic of Cancer
+Basic d3js visualization using Winter Olympics dataset.
 
 ### Grading Instruction
 -------------------
