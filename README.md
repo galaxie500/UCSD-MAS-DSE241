@@ -2,4 +2,4 @@
 
 Group exercises and coursework for DSE241 Data Visualization - Winter Quarter 2022.
 
-[Exercise 1](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise1): Developing basic visualization on Winter Olympics Dataset using D3JS
+[Exercise 1](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise1): Winter Olympics Above the Tropic of Cancer - d3js basic visualization
