@@ -1,5 +1,3 @@
-README
-
 Exercise 3
 
 All csv files incorporated in the Tableau visualization are included in the Tableau file. 
