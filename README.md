@@ -14,4 +14,5 @@ Group exercises and coursework for DSE241 Data Visualization - Winter Quarter 20
 
 -  [ ] Exercise 6:
 
+- [x] Final proposal: [Covid-19's Lingering in the Air](https://github.com/galaxie500/UCSD-MAS-DSE241/blob/main/final_proposal.pdf)
 - [ ] Final project
