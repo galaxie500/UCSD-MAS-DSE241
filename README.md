@@ -8,7 +8,7 @@ Group exercises and coursework for DSE241 Data Visualization - Winter Quarter 20
 
 - [x] Exercise 3: [Effects of Population and GDP on State CO2 Levels](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise3)
 
--  [x] Exercise 4: [Bighorn Sheep Dominance: node-link Visualization](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise4)
+-  [x] Exercise 4: [Bighorn Sheep Dominance: node-link Network Visualization using NetworkX](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise4)
 
 -  [ ] Exercise 5:
 
