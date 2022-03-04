@@ -10,9 +10,7 @@ Group exercises and coursework for DSE241 Data Visualization - Winter Quarter 20
 
 -  [x] Exercise 4: [Bighorn Sheep Dominance: node-link Network Visualization using NetworkX](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise4)
 
--  [ ] Exercise 5:
-
--  [ ] Exercise 6:
+-  [x] Exercise 7: [Geographic visualization of West Nile Virus across California in 2007-2015](https://github.com/galaxie500/UCSD-MAS-DSE241/tree/main/exercise7)
 
 - [x] Final proposal: [Covid-19's Lingering in the Air](https://github.com/galaxie500/UCSD-MAS-DSE241/blob/main/final_proposal.pdf)
 - [ ] Final project
